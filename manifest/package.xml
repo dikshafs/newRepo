@@ -42,7 +42,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>CustomLabel</name>
+        <name>Layout</name>
     </types>
     <version>50.0</version>
 </Package>
